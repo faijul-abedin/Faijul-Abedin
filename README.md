@@ -5,10 +5,11 @@
 
 I completed my graduation from North South University in Computer Science and Engineering. I have met so many projects and problem-solving related to software engineering in my academic career. My interested fields are Web Development and App Development. But I also know machine learning, android studio, data structure and algorithm, Neural network, Java, Python, and many software engineering tools and topics.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faijul-abedin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faijul-abedin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/faijul_abedin//)  ![Profile views](https://gpvc.arturio.dev/faijul-abedin)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faijul-abedin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faijul-abedin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/faijul_abedin//)    
 
-Skills: MERN / REACT / JS / HTML / CSS // JAVA / SPRING / ANDROID // PYTHON / MACHINE LEARNING / DEEP LEARNING // SQL / MY SQL / MONGO DB
+####Skills: MERN / REACT / JS / HTML / CSS // JAVA / SPRING / ANDROID // PYTHON / MACHINE LEARNING / DEEP LEARNING // SQL / MY SQL / MONGO DB
 
+![Profile views](https://gpvc.arturio.dev/faijul-abedin)
 
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning Spring Boot 
