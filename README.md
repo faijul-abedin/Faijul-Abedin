@@ -14,7 +14,7 @@ I completed my graduation from North South University in Computer Science and En
 
 
 
-#### PHP / LARAVEL / REACT / HTML / CSS / BOOTSTRAP / JS / JQUERY / AJAX // JAVA / SPRING / ANDROID // PYTHON / MACHINE LEARNING / DEEP LEARNING // SQL / MY SQL / MONGO DB
+#### PHP / LARAVEL / VUE / HTML / CSS / BOOTSTRAP / JS / JQUERY / AJAX // JAVA / SPRING / ANDROID // PYTHON / MACHINE LEARNING / DEEP LEARNING // SQL / MY SQL / MONGO DB
 
 ![Profile views](https://gpvc.arturio.dev/faijul-abedin)
 
